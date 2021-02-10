@@ -1,0 +1,8 @@
+The Pico2040 Zero W is untested. I have not yet reviewed/tested the design.
+
+The Board is designed with KiCAD EDA, a FOSS PCB design suite. 
+
+It is also designed with the current stable version(5.1.9 as of time of writing)
+
+The hardware files are compatible with the current stable versions and the beta unstable versions. You can download KiCAD here: https://www.kicad.org
+
