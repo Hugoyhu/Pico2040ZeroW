@@ -6,3 +6,9 @@ It is also designed with the current stable version(5.1.9 as of time of writing)
 
 The hardware files are compatible with the current stable versions and the beta unstable versions. You can download KiCAD here: https://www.kicad.org
 
+
+Schematic is modified off the Raspberry Pi foundation's reference schematic and carrier demo board schematics with modifications. 
+
+Outline and location of parts were placed with the assistance of Chromico's Raspberry Pi pHAT Screw Terminal shield: https://github.com/Chromico/Raspberry-Pi-Screw-Terminal-Shield
+
+
