@@ -1,0 +1,13 @@
+This is an UNTESTED design, based off the Raspberry Pi RP2040 chipset.
+
+Please look over source files prior to fabrication.
+
+Board is designed with KiCAD, a FOSS PCB and Schematic EDA.
+
+All files are designed in the latest stable version(5.1.9 as of time of writing)
+
+Schematic is modified off the Raspberry Pi foundation's reference schematic and carrier demo board schematics with modifications. 
+
+Outline and location of parts were placed with the assistance of Chromico's Raspberry Pi pHAT Screw Terminal shield: https://github.com/Chromico/Raspberry-Pi-Screw-Terminal-Shield
+
+This is a modified design from Pico2040ZeroW/Hardware with different layout and more efficiency(possibly).
