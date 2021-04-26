@@ -11,5 +11,3 @@ It is compatible with Python, (snek lang), C/C++, and Rust.
 
 
 Schematic is modified off the Raspberry Pi foundation's reference schematic and carrier demo board schematics with modifications. 
-
-Outline and location of parts were placed with the assistance of Chromico's Raspberry Pi pHAT Screw Terminal shield: https://github.com/Chromico/Raspberry-Pi-Screw-Terminal-Shield
